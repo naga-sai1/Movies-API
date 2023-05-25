@@ -1,5 +1,5 @@
-GET http://localhost:3000/movies/ 
-###
+GET http://localhost:3002/movies/ 
+### 
 
 GET http://localhost:3002/movies/3/ 
 ###
@@ -31,5 +31,6 @@ GET http://localhost:3002/directors/
 ### 
 
 GET http://localhost:3002/directors/1/movies/
+###
 
 
